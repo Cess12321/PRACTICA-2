@@ -1,0 +1,140 @@
+
+#contenedor
+{
+    width: 1200px;
+    height: 1200px;
+    background-color: rgba(9, 75, 92, 0.726);
+    margin: auto;  
+    margin-top: 40px; 
+    
+}
+
+#cabeza
+{ display: flex;
+   position: relative;
+   left: 510px;
+}
+#oreja1{
+    background-color: saddlebrown;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    position: relative;
+    right: -10px;
+}
+#caveza{
+    background-color: saddlebrown;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+
+}
+#ojo1{
+    background-color: rgb(56, 26, 4);
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    position: relative;
+    right: -50px;
+    top: 10px;
+
+}
+#punto{
+    background-color: rgb(255, 255, 255);
+    width: 5px;
+    height: 5px;
+    border-radius: 100px;
+    position: relative;
+    right: -14px;
+    top: 10px;
+}
+#ojo2{
+    background-color: rgb(107, 73, 48);
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    position: relative;
+    right: -16px;
+    top: -20px;
+    
+}
+
+#voca{
+    background-color: rgb(158, 118, 89);
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    position: relative;
+    right: -34px;
+    
+}
+#oreja2{
+    
+    background-color: saddlebrown;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    position: relative;
+    right: 10px;
+    
+}
+#pecho0{
+   display: flex;
+   position: relative;
+   left: 400px;
+}
+#mano1{
+    transform: rotate(140deg);
+    background-color: saddlebrown;
+    width: 30px;
+    height: 100px;
+    border-radius: 100px;
+    position: relative; 
+    left: 38px;
+}
+#pecho{
+    background-color: saddlebrown;
+    width: 260px;
+    height: 260px;
+    border-radius: 200px;
+
+}
+#dentro{
+    background-color: rgb(206, 149, 108);
+    width: 190px;
+    height: 190px;
+    border-radius: 200px;
+    position: relative;
+    top: 30px;
+    right: -38px;
+}
+#mano2{
+    transform: rotate(45deg);
+    background-color: saddlebrown;
+    width: 30px;
+    height: 100px;
+    border-radius: 100px;
+    position: relative;
+   
+    right: 10px;
+}
+#pata1{
+    transform: rotate(199deg);
+    background-color: saddlebrown;
+    width: 30px;
+    height: 100px;
+    border-radius: 100px;
+    position: relative;
+    top: 160px;
+    left: 10px;
+}
+#pata2{
+    transform: rotate(320deg);
+    background-color: saddlebrown;
+    width: 30px;
+    height: 100px;
+    border-radius: 100px;
+    position: relative;
+    top: 160px;
+    right: 30px;
+}
